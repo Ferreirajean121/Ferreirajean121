@@ -1,5 +1,3 @@
-![](J4o.gif "gif")
-
 # Olá, Eu sou Jean Ferreira 🙋🏻‍♂️
 
 Bem-vindo ao meu GitHub! Sou estudante de T.I e encantado por tecnologia, aprender faz parte do meu dia-dia e os desafios sempre me mantém motivado a descobrir as melhores soluções.
