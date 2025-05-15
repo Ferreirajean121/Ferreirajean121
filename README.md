@@ -1,5 +1,4 @@
-<img src="J4o.gif" alt="gif" title="gif" width="800" height="400">
-
+![j](J4o.gif "gif")
 ##
 # Olá, Eu sou Jean Ferreira 🙋🏻‍♂️
 
